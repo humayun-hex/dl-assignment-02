@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.weights.h5
+*.keras
+cnn_assignment_work/
+experiment/
+/CNN_Assignment_02_Report.docx
+/CNN_Assignment_02_Report.pdf
